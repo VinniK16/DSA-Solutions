@@ -23,10 +23,7 @@ Each file contains:
 - Trees
 - Graphs
 - Sorting
+- Dynamic Programming
 
-Dynamic Programming
-
-…and more
-
-🚦 Status
+# 🚦 Status
 I periodically add new solutions and update existing ones.
