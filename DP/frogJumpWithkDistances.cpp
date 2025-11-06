@@ -1,3 +1,5 @@
+//Problem link: https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances
+
 #include <iostream>
 #include <cmath>
 #include <vector>
