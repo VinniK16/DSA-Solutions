@@ -12,9 +12,8 @@ The solutions are organized by topic and language for easy navigation.
 Browse folders by topics.
 
 Each file contains:
-- Problem description (or link)
-- Approach/logic explanation
-- Time and space complexity analysis
+- Problem link
+- Solution
 
 
 # 💡 Topics Covered
