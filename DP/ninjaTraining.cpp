@@ -1,3 +1,5 @@
+//Problem link: https://takeuforward.org/plus/dsa/problems/ninja's-training
+
 #include <iostream>
 #include <vector>
 using namespace std;
